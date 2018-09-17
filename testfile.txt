@@ -1,0 +1,1 @@
+This is tex file for testing ability of adding new files to the project
